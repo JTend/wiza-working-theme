@@ -1,0 +1,21 @@
+{
+    "name": "wiza-theme",
+    "displayName": "wiZa Theme",
+    "description": "My own theme to work, 12 hours guarantee lol",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "wiZa Thewe for VS Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wiZa Thewe for VS Code-color-theme.json"
+            }
+        ]
+    }
+}
